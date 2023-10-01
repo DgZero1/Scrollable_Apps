@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Reminders</string>
+    <string name="day1">Monday</string>
+    <string name="day2">Tuesday</string>
+    <string name="day3">Wednesday</string>
+    <string name="day4">Thursday</string>
+    <string name="day5">Friday</string>
+    <string name="day6">Saturday</string>
+    <string name="day7">Sunday</string>
+    <string name="day8">Congratulations</string>
+    <string name="reminder1">go to the gym</string>
+    <string name="reminder2">go to work</string>
+    <string name="reminder3">Study for class and finish your homework.</string>
+    <string name="reminder4">It is your moms birthday</string>
+    <string name="reminder5">Tie up loose ends</string>
+    <string name="reminder6">Date night with the wife </string>
+    <string name="reminder7">go to church</string>
+    <string name="reminder8">Enjoy time for yourself!</string>
+</resources>
